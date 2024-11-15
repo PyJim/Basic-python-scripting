@@ -1,0 +1,2 @@
+I have learned how to use libraries such as os, shutil and requests to manage files and directories in python.
+Last modified on: 2024-11-01 10:06:41
